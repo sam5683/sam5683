@@ -1,6 +1,6 @@
 # Hi, I'm Sam   
 
-I enjoy tuying new ideas that would help me and other's to become better version of ourself.
+I enjoy trying new ideas that would help me and other's to become better version of ourself.
 ---
 
 ##  Current Projects  
