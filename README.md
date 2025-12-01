@@ -1,7 +1,6 @@
 # Hi, I'm Sam   
 
-I enjoy trying new ideas that would help me and other's to become better version of ourself.
----
+- **If you think life is fun, try coding.**
 
 ##  Current Projects  
 -  **SkillTree** — A learning platform to make studying fun, structured, and motivating  
@@ -25,15 +24,7 @@ I enjoy trying new ideas that would help me and other's to become better version
 ##  Contact  
 📧 **Email:** 162077407+sam5683@users.noreply.github.com  
 
----
 
-##  GitHub Stats  
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam5683&show_icons=true&theme=tokyonight)
 
----
-
-##  Philosophy  
-> “Life is hard already let's make it fun with our skills.  
-> building is fun way to learn and leaning is fun way to build”
 
 
